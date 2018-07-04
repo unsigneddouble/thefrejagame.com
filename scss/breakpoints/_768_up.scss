@@ -1,0 +1,26 @@
+#about{
+  #plax-1{
+    bottom: -180px;
+  }
+  #plax-2{
+    bottom: -50px;
+  }
+  h1{
+    &:before{
+    }
+    &:after{
+    }
+  }
+  p{
+    &:first-of-type{
+    }
+    .firstcharacter {
+    }
+    a{
+    }
+  }
+}
+
+#mc_embed_signup{
+  bottom: 30%;
+}

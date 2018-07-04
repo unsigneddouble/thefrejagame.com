@@ -1,0 +1,37 @@
+#mc_embed_signup{
+  width:320px;
+  label{
+    color: $freja_accent_2;
+  }
+  #mce-EMAIL{
+    width: 220px;
+  }
+  #mc-embedded-subscribe{
+    width: 100px;
+    &.button{
+    }
+  }
+}
+
+#about{
+  #plax-1{
+    bottom: -220px;
+  }
+  #plax-2{
+    bottom: -60px;
+  }
+  h1{
+    &:before{
+    }
+    &:after{
+    }
+  }
+  p{
+    &:first-of-type{
+    }
+    .firstcharacter {
+    }
+    a{
+    }
+  }
+}

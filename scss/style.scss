@@ -1,0 +1,19 @@
+@import "colors";
+@import "mixins";
+@import "breakpoints/base";
+
+@media screen and (min-width: 768px) {
+	// styles in 768up.scss
+  @import "breakpoints/768_up";
+} // end of media query
+
+@media screen and (min-width: 992px) {
+	// styles in 768up.scss
+  @import "breakpoints/992_up";
+} // end of media query
+
+
+@media screen and (min-width: 1200px) {
+	// styles in 1024up.scss
+  @import "breakpoints/1200_up";
+} // end of media query

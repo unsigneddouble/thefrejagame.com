@@ -1,0 +1,22 @@
+#about{
+  #plax-1{
+    bottom: -380px;
+  }
+  #plax-2{
+    bottom: -80px;
+  }
+  h1{
+    &:before{
+    }
+    &:after{
+    }
+  }
+  p{
+    &:first-of-type{
+    }
+    .firstcharacter {
+    }
+    a{
+    }
+  }
+}
