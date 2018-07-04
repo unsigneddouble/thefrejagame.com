@@ -18,7 +18,7 @@ $(document).ready(function() {
 
 		var socialOffset = document.getElementById('socials-holder').getBoundingClientRect().top - $(window).height();
 
-		console.log(socialOffset);
+		// console.log(socialOffset);
 		if( socialOffset < -280 ){
 			$('.social-block').each(function(i){
 	      var item = $(this);

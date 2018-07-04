@@ -157,6 +157,10 @@ textarea {
     }
 }
 
+#info-txt{
+  height: 460px;
+  overflow: scroll;
+}
 #about{
   position: relative;
   top: 0;
@@ -345,7 +349,7 @@ nav{
       border-bottom-color: $freja_accent;
       background-color: transparent;
       outline: none;
-      color: $freja_light_grey;
+      color: black;
     }
     #mc-embedded-subscribe{
       width: 40%;
